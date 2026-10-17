@@ -1,4 +1,10 @@
-# bootanimation-library
+# Bcidanthevo's Bootanimation Library
 Thousand of bootanimation for aosp-based rom
 
-![](https://github.com/cupecups/LineageOS-UTM-HV/blob/b4056d7a878f502a4e189d0d8a66aa682fb4c3a5/img/setup.gif)
+Note: Some were created by me, or extracted from custom ROMs.
+
+# See Bootanimation below:
+**1. Bad Lineage Style 1 (2960x1440):**
+![](https://github.com/HPinES-Tech/imageresources/blob/main/bootanimation-library/bad-lineage-style-1-2960x1440.gif)
+- Name: Bad Lineage Style 1
+- Resolution: 2960x1440
