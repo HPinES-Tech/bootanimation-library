@@ -20,3 +20,5 @@ Note: Some were created by me, or extracted from custom ROMs.
   + Samsung Galaxy Note9/S9/S9+
   + Google Pixel 3 XL
 - Download: [bootanimation.zip](https://github.com/HPinES-Tech/bootanimation-library/raw/refs/heads/main/resources/bad-lineage-style-1-2960x1440/bootanimation.zip)
+
+***Note: This file is not a flashable zip.***
