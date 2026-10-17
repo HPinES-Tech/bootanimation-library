@@ -22,3 +22,9 @@ Note: Some were created by me, or extracted from custom ROMs.
 - Download: [bootanimation.zip](https://github.com/HPinES-Tech/bootanimation-library/raw/refs/heads/main/resources/bad-lineage-style-1-2960x1440/bootanimation.zip)
 
 ***Note: This file is not a flashable zip.***
+
+*Tips: Common location for file replacement:*
+
+- /system/media/bootanimation.zip
+- /product/media/bootanimation.zip
+- /system/product/media/bootanimation.zip
