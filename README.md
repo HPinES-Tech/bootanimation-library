@@ -3,7 +3,7 @@ Thousand of bootanimation for aosp-based rom
 
 Note: Some were created by me, or extracted from custom ROMs.
 
-# See Bootanimation below:
+# Browse Bootanimation below:
 **1. Bad Lineage Style 1 (2960x1440):**
 
 *Preview:*
