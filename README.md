@@ -15,7 +15,7 @@ Note: Some were created by me, or extracted from custom ROMs.
 - Tested on:
   + Devices: Samsung Galaxy Note8
   + OS: Lineage OS 22.2
-- Probaly compatible:
+- Probably compatible:
   + Samsung Galaxy Note8/S8/S8+
   + Samsung Galaxy Note9/S9/S9+
   + Google Pixel 3 XL
