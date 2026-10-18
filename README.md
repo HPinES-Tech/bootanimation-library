@@ -28,3 +28,8 @@ Note: Some were created by me, or extracted from custom ROMs.
 - /system/media/bootanimation.zip
 - /product/media/bootanimation.zip
 - /system/product/media/bootanimation.zip
+
+***Or see for a installation guide [here.]()***
+
+---
+**2. LineageOS Style 1 (1440p):**
