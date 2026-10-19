@@ -1,6 +1,6 @@
 # Bad Lineage Style 1 (2960x1440)
 *Preview:*
-[](https://github.com/HPinES-Tech/imageresources/blob/main/bootanimation-library/bad-lineage-style-1-2960x1440.gif)
+![Preview](https://github.com/HPinES-Tech/imageresources/blob/main/bootanimation-library/bad-lineage-style-1-2960x1440.gif)
 - Name: Bad Lineage Style 1
 - Resolution: 2960x1440
 - Made/Remake by: Bcidanthevo (HPinES Tech)
