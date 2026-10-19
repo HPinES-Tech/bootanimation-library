@@ -15,4 +15,4 @@
   + [bootanimation.zip](https://github.com/HPinES-Tech/bootanimation-library/raw/refs/heads/main/resources/bad-lineage-style-1-2960x1440/bootanimation.zip) (not a flashable zip)
   + [flashable.zip]() (flash via custom recovery)
 
-***Or see for a installation guide [here.]()***
+***Or see for a installation guide [here.](https://github.com/HPinES-Tech/bootanimation-library/blob/main/resources/bad-lineage-style-1-2960x1440/guide.md)***
