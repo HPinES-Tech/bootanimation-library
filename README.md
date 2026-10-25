@@ -3,7 +3,7 @@ Thousand of bootanimation for aosp-based rom
 
 Note: Some were created by me, or extracted from custom ROMs.
 
-***[-> Installation guide]()***
+***[-> Installation guide](https://github.com/HPinES-Tech/bootanimation-library/blob/main/resources/guide.md)***
 
 # Browse Bootanimation below:
 |Name|Preview|
