@@ -3,6 +3,8 @@ Thousand of bootanimation for aosp-based rom
 
 Note: Some were created by me, or extracted from custom ROMs.
 
+***[-> Installation guide]()***
+
 # Browse Bootanimation below:
 |Name|Preview|
 |:---:|:---:|
