@@ -8,7 +8,7 @@
 |---|---|
 |Name|Bad Lineage Style 1|
 |Resolution|2960x1440|
-|Made/Remake by|Bcidanthevo (HPinES Tech)|
+|Made/Remake by|Bcidanthevo|
 
 ***- Tested-on table:***
 |Device|OS|
